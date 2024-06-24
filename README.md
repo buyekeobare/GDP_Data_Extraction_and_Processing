@@ -31,7 +31,7 @@ We will be using the following libraries:
 
 ### Importing Required Libraries
 
-We recommend you import all required libraries in one place (here):
+Import all required libraries in one place (here):
 
 ```bash
 import numpy as np
